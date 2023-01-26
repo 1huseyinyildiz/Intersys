@@ -1,0 +1,15 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\bin\Debug\net6.0\Intersys.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\bin\Debug\net6.0\Intersys.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\bin\Debug\net6.0\Intersys.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\bin\Debug\net6.0\Intersys.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\bin\Debug\net6.0\Intersys.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\refint\Intersys.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\Intersys.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\Intersys\obj\Debug\net6.0\ref\Intersys.dll
