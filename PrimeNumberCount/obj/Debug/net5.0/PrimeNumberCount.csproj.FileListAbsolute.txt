@@ -1,0 +1,16 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.runtimeconfig.dev.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\bin\Debug\net5.0\PrimeNumberCount.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\refint\PrimeNumberCount.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\PrimeNumberCount.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PrimeNumberCount\obj\Debug\net5.0\ref\PrimeNumberCount.dll

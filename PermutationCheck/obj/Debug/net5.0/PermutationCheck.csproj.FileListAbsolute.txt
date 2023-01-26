@@ -1,0 +1,16 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.runtimeconfig.dev.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\bin\Debug\net5.0\PermutationCheck.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\refint\PermutationCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\PermutationCheck.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PermutationCheck\obj\Debug\net5.0\ref\PermutationCheck.dll

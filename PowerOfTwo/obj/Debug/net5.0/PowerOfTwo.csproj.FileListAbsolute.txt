@@ -1,0 +1,16 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\bin\Debug\net5.0\PowerOfTwo.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\refint\PowerOfTwo.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\PowerOfTwo.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PowerOfTwo\obj\Debug\net5.0\ref\PowerOfTwo.dll

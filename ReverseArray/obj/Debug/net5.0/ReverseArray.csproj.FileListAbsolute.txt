@@ -1,0 +1,16 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.dev.json
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\bin\Debug\net5.0\ReverseArray.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\refint\ReverseArray.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ReverseArray.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\ReverseArray\obj\Debug\net5.0\ref\ReverseArray.dll
