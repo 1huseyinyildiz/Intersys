@@ -1,0 +1,16 @@
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.exe
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.deps.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.runtimeconfig.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.runtimeconfig.dev.json
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\bin\Debug\net5.0\PalindromeCheck.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.csproj.AssemblyReference.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\refint\PalindromeCheck.dll
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.pdb
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\PalindromeCheck.genruntimeconfig.cache
+C:\Users\RESPECT\Desktop\Intersys-assey\PalindromeCheck\obj\Debug\net5.0\ref\PalindromeCheck.dll
